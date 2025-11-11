@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Zud Assistance",
+  "description": "Engage in a real-time voice conversation with Gemini. Speak and listen to responses instantly, powered by the Gemini 2.5 Native Audio (Live API).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
